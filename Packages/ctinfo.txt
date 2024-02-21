@@ -1,0 +1,14 @@
+=============================================
+  CodeTyphon Studio
+  Typhon IDE
+  Package Information file
+=============================================
+
+Extends_xCL
+
+Version: 0.0 Date: 2024-02-21 11:14
+
+
+
+
+
