@@ -1,0 +1,5 @@
+Extends xCL readme file
+
+VCL or LCL libraries respectively for Delphi or Lazarus/Typhon are sometimes incomplete. So, some developpers develop theres own extensions. At there own risks.
+
+The objectiv of Extendds xCL is to share common source code for Delphi or Lazarus or Typhon with portabibility, compatibility.
